@@ -1,0 +1,12 @@
+{
+  "name": "chargeguard-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Native Android APK builder for ChargeGuard.",
+  "scripts": {
+    "build:apk": "node build-apk.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
